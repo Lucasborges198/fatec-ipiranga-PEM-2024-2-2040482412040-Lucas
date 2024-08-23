@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Codigo feito pelo aluno Lucas Borges Ribeiro
 // Função para calcular a soma das notas centrais (excluindo a maior e a menor)
 float calcularNota(float notas[], int n) {
     float maior = notas[0], menor = notas[0], soma = 0;
