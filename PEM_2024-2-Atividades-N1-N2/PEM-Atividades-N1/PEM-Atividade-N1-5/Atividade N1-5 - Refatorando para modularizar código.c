@@ -25,6 +25,13 @@ void inicializarTabuleiro(char tabuleiro[8][8][4]) {
         snprintf(tabuleiro[6][i], 4, "%s", peoesBrancos[i]); // Peões brancos
         snprintf(tabuleiro[7][i], 4, "%s", pecasBrancas[i]); // Peças principais brancas
     }
+
+    // Preencher o restante do tabuleiro com espaços vazios
+    for (int linha = 2; linha < 6; linha++) {
+        for (int coluna = 0; coluna < 8; coluna++) {
+            snprintf(tabuleiro[linha][coluna], 4, ""); // Espaços vazios
+        }
+    }
 }
 
 // Função para exibir o tabuleiro
