@@ -1,3 +1,11 @@
+/*--------------------------------------------------------*
+* Disciplina: Programaçao Estruturada e Modular           *
+*          Prof. Carlos Veríssimo                         *
+*--------------------------------------------------------*
+* Objetivo do Programa: Refatorando para modularizar código *
+* Data - 12/09/2024                                       * 
+* Autor: Lucas Borges Ribeiro, Kauan Torres              *
+*--------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
