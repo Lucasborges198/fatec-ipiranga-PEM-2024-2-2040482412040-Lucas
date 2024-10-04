@@ -1,0 +1,10 @@
+
+/*---------------------------------------------------------*
+| 			MELHORIAS                          |
+*---------------------------------------------------------*/
+
+//1. Modularização do código
+//2. Pedir entrada de n numeros em vez de um array já feito
+//3. Criação da função de change (troca das posições)
+//4. Definição de um nome de mais fácil entendimento das variavéis 
+//5. Utilização de ponteiros
